@@ -1,0 +1,62 @@
+nav {
+  height: 50px;
+  background-color: #E8EAF5;
+  padding: center;
+  margin: 0px;
+  border: white;
+}
+a {
+  color: white;
+}
+li {
+  padding: 10px;
+  text-align: left;
+}
+p {
+  text-align: left;
+}
+h2 {
+  padding: 15px;
+}
+.name {
+  text-align: center;
+}
+.img {
+  float: left;
+  padding: 15px;
+}
+.inline-block {
+  display: inline-block;
+  padding: 15px;
+  background-color: #6F7580;
+}
+.left {
+  height: 750px;
+  float: left;
+  background-color: #C8C103;
+  width: 30%;
+  text-align: center;
+}
+.right {
+  height: 750px;
+  float: left;
+  background-color: #B5306D;
+  width: 70%;
+  text-align: center;
+}
+.card {
+  display: inline-block;
+  border-radius: 0px;
+  border-width: 10px;
+  border-color: blue;
+  padding: 5px;
+  margin: 10px;
+  border: 3px solid #E8EAF5;
+}
+.topLeft {
+  height: 582px;
+  background-color: #64295F;
+}
+.bottom {
+  width: 80%;
+}
